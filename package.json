@@ -1,0 +1,27 @@
+{
+  "name": "ben-cp02",
+  "version": "1.0.0",
+  "description": "CP02 repo creation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ben-bwilly-williams/ben-CP02.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ben-bwilly-williams/ben-CP02/issues"
+  },
+  "homepage": "https://github.com/ben-bwilly-williams/ben-CP02#readme",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  },
+  "dependencies": {
+    "cowsay": "^1.5.0",
+    "request": "^2.88.2"
+  }
+}
